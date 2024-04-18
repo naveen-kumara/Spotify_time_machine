@@ -7,7 +7,7 @@ date = input("which year you want to travel to? Type the date in this format YYY
 
 sp = spotipy.Spotify(
     auth_manager= SpotifyOAuth(
-                                client_id="YOUR CLIENT ID",
+                                client_id="NAVEEN",
                                 client_secret="YOUR CLIENT SECRET",
                                 redirect_uri="http://example.com",
                                 scope="playlist-modify-private",
